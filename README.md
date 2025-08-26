@@ -1,2 +1,2 @@
 # Data-Cleaning-of-Google-Playstore
-This project focuses on cleaning, manipulating, and visualizing the Google Play Store dataset. The workflow includes : Data Cleaning, Data Visualization and Data Manipulation.
+Data-Cleaning-of-Google-Playstore : Cleaned and manipulated Google Play Store dataset using Python (Pandas, NumPy) to handle missing values and duplicates. Visualized key insights with Matplotlib and Seaborn through pie charts, histograms, and subplots for better data understanding.
